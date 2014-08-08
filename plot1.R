@@ -16,7 +16,7 @@ plot1<- function(myfile=""){
   png("plot1.png")
   
   plottitle<- "Global Active Power"
-  hist(df$Global_active_power, xlab=paste(plottitle, " (kilowatt)", sep=""), main=plottitle, col="red")
+  hist(df$Global_active_power, xlab=paste(plottitle, " (kilowatts)", sep=""), main=plottitle, col="red")
   dev.off() ## turn the device off 
 
 
