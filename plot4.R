@@ -3,6 +3,7 @@
 
 plot4<- function(myfile=""){
 
+  library(lubridate)
   filename <- "household_power_consumption.txt"
   if(myfile!="") filename<- myfile
   

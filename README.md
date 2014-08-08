@@ -1,6 +1,14 @@
 ## Introduction
 
-(This repo. has been forked from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1) and is therefore a copy of the README provided there)
+This repo. has been forked from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1). A few additional comments to explain the solutions are:
+
+1. This repo. contains the solutions to the 1st course project. This project required us to make four plots each with its own challenge.
+2. The .R files contain the code while the corresponding .png files are the resulting images. The R code within these files assumes that there is a file named "household_power_consumption.txt" is present in your working directory. If that is not the case, you can specify the full path to the file as an argument to the function. Each .R file has only one function defined within it, for example
+      source("plot1.R")
+      plot1()
+or to specify a file path 
+      plot1("/my/path/myfile.txt")
+
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
