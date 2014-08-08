@@ -1,4 +1,4 @@
-## Introduction
+## Exploratory data analysis: Project 1
 
 This repo. has been forked from [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1). A few additional comments to explain the solutions are:
 
@@ -13,6 +13,10 @@ or to specify a file path
 
       plot1("/my/path/myfile.txt")
 
+
+Below is a copy of the original README from the fork
+
+## Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
